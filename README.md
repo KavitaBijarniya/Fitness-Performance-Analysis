@@ -5,11 +5,11 @@ The Fitness Performance Analysis Dashboard is designed to help users track and u
 
 ## 🎯 Objectives
 
-Monitor user performance across multiple activities
+• Monitor user performance across multiple activities
 
-Analyze calorie burn, sleep hours, and heart rate patterns
+• Analyze calorie burn, sleep hours, and heart rate patterns
 
-Compare progress and behavior across users and demographics
+• Compare progress and behavior across users and demographics
 
 ## 🔍 Key Insights
 ### 📄 Overview Page
@@ -48,6 +48,10 @@ Compare progress and behavior across users and demographics
 • Weight Tracking: Separate tables for No Weight Loss and Weight Loss users with first/last recorded weights
 
 • User Activities Table: Shows all activities performed by each user
+
+<img width="1382" height="805" alt="Fitness 1" src="https://github.com/user-attachments/assets/ea01d66a-8810-4cfa-aa0f-f38e379de0a4" />
+
+<img width="1385" height="797" alt="Fitness 2" src="https://github.com/user-attachments/assets/b62b4ca2-19fb-4547-b7d0-5a8c9ed10259" />
 
 ### ⚙️ Tools & Techniques
 
